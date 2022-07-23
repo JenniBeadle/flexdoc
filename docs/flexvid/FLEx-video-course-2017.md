@@ -1,9 +1,8 @@
-Cours de   
-FLEx vidéo
+---
+title: Cours de   FLEx vidéo
+---
 
 version 8.3
-
-Table des matières
 
 # Introduction
 
@@ -57,12 +56,12 @@ Les outils dans l’explorateur de langue (FLEx) sont organisés en **zones**. D
 
 La liste d’affichages change selon la zone sélectionnée.
 
-| **Zone**            | Là où vous pouvez…                                                              | Contient affichages/outils pour…                                                                                                         |
-|---------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lexique**         | maintenir votre base de données lexicale                                        | éditer le dictionnaire  éditer les entrées en bloc  ajouter les lexèmes par domaines sémantiques                                         |
-| **Textes et Mots**  | entrer et interlinéariser les textes vernaculaire                               | analyser les textes interlinéaires examiner les analyses des mots rechercher les mots avec une concordance                               |
-| **Grammaire**       | écrire et organiser l’information et les règles de grammaire                    | contrôler la liste de catégories grammaticales  créer des règles flexionnelles basées sur les modèles  générer une esquisse grammaticale |
-| **Listes**          | maintenir les diverses listes utilisées pour classer et catégoriser les données | ajouter/éditer les éléments dans les listes                                                                                              |
+| **Zone**           | Là où vous pouvez…                                                              | Contient affichages/outils pour…                                                                                                       |
+|--------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Lexique**        | maintenir votre base de données lexicale                                        | éditer le dictionnaire éditer les entrées en bloc ajouter les lexèmes par domaines sémantiques                                         |
+| **Textes et Mots** | entrer et interlinéariser les textes vernaculaire                               | analyser les textes interlinéaires examiner les analyses des mots rechercher les mots avec une concordance                             |
+| **Grammaire**      | écrire et organiser l’information et les règles de grammaire                    | contrôler la liste de catégories grammaticales créer des règles flexionnelles basées sur les modèles générer une esquisse grammaticale |
+| **Listes**         | maintenir les diverses listes utilisées pour classer et catégoriser les données | ajouter/éditer les éléments dans les listes                                                                                            |
 
 # Mise en page des volets (2.Pane Layout)
 
@@ -70,7 +69,7 @@ Souvent les affichages contiennent un volet de lecture rapide et un volet d’é
 
 ![](media/138fb50b105ec890b7aedce40820dacb.png)
 
-# Configuration des colonnes (3-configure columns)
+# 3-Configuration des colonnes (3-configure columns)
 
 Dans un volet de lecture rapide vous pouvez changer les colonnes affichées et leurs positions.
 
@@ -106,7 +105,7 @@ Dans un volet de lecture rapide vous pouvez changer les colonnes affichées et l
 
     ![](media/046016d6d822e7af4b6c387cd1d563a5.png)
 
-# Filtrage (4-Filtering)
+# 4-Filtrage (4-Filtering)
 
 Les filtres sont contrôlés par les sélecteurs dessous les en-têtes des colonnes. Cliquez la flèche à droite pour voir le menu des filtres disponible pour ce champs.
 
@@ -168,7 +167,7 @@ Limiter…
 
 ![](media/23cf7b7e2d9f57cdb3ab7072967abb77.png)
 
-# Filtrage avec des expressions régulières (6-Filtering with Regular Expressions)
+# 6-Filtrage avec des expressions régulières (6-Filtering with Regular Expressions)
 
 Pour plus de flexibilité dans le filtrage personnalisé vous pouvez utiliser ce qui est appelé une **expression rationnelle (régulière)**.
 
@@ -209,7 +208,7 @@ Quelques expressions régulières utiles :
 | e+             | tous les mots avec plusieurs **e** ensemble                                     |
 | d.b            | tous les mots avec **d** et **b** et exactement une lettre entre **d** et **b** |
 
-# Triage (7-Sorting)
+# 7-Triage (7-Sorting)
 
 ## L’ordre primaire
 
@@ -230,7 +229,7 @@ Quelques expressions régulières utiles :
 
     Note : Avec triage sur les champs répétés (par exemple, Les Gloses) le nombre d'entrées totale dans la barre d’état peut changer, parce qu’une entrée peut avoir plusieurs gloses et donc apparaître dans la liste plusieurs fois.
 
-# Affichage des champs caches, Visibilité des champs (8-Showing Hidden Fields, Field Visibility)
+# 8-Affichage des champs caches, Visibilité des champs (8-Showing Hidden Fields, Field Visibility)
 
 Il se peut que vous n’avez pas accès à tous les champs nécessaire pour votre travail dans le volet d’édition.
 
@@ -264,7 +263,7 @@ Il se peut que vous n’avez pas accès à tous les champs nécessaire pour votr
 -   Choisissez une des options « Normalement caché »
 -   
 
-# Champs Insérés (9-Inserted Fields)
+# 9-Champs Insérés (9-Inserted Fields)
 
 ## Champs Insérés
 
@@ -328,7 +327,7 @@ Si un champ affiche les données dans plusieurs systèmes d’écriture, vous po
 
 -   (Cliquez sur le lien Atteindre entrée similaire pour montrer et peut-être éditer cette entrée similaire.)
 -   Sélectionnez la Catégorie
--   Cliquez **Créer**.   
+-   Cliquez **Créer**.  
     L’entrée est créée et affichée dans le volet d’édition.
 
 # Recherche d’une entrée (13-Finding an Entry)-
@@ -586,10 +585,10 @@ Les allomorphes sont utiles pour spécifier les formes variantes des affixes.
 -   Insérer frontière de mot
 -   Maintenant nous avons l’environnement complet : « /x_\# ». Donc cet allomorphe sera utilisé dans l’analyse seulement dans cet environnement – après « x » et à al fin du mot.
 
-| ![](media/15c5bd470dbb1559bf9a7f8aea819f86.png)                                                  |
-|--------------------------------------------------------------------------------------------------|
-| ![](media/7bf1701fe41ca72a5543e36937dc3ba7.png)                                                  |
-| ![](media/1177bd55c33f7b3e4b9cc92fed9b8059.png)  ![](media/8921fe3afd6937123ddbc7e095c3315e.png) |
+| ![](media/15c5bd470dbb1559bf9a7f8aea819f86.png)                                                 |
+|-------------------------------------------------------------------------------------------------|
+| ![](media/7bf1701fe41ca72a5543e36937dc3ba7.png)                                                 |
+| ![](media/1177bd55c33f7b3e4b9cc92fed9b8059.png) ![](media/8921fe3afd6937123ddbc7e095c3315e.png) |
 
 # Ajouter des relations lexicales (22-Adding Lexical Relations)
 
@@ -733,9 +732,9 @@ Les entrées avec une forme complexe ont un champ qui détermine l’affichage d
 
 -   en cliquant-droit sur le composant dans la liste de composants et sélectionnant Afficher une sous-entrée sous ce composant
 
-| ![](media/ef1f60a0ea749129835ed06b6af4fd3f.png)                                                  |
-|--------------------------------------------------------------------------------------------------|
-| ![](media/31dc915e5d637554646430bc2b7d98ad.png)  ![](media/7f6fe2c94673dc8b6da0c22758a6bc7e.png) |
+| ![](media/ef1f60a0ea749129835ed06b6af4fd3f.png)                                                 |
+|-------------------------------------------------------------------------------------------------|
+| ![](media/31dc915e5d637554646430bc2b7d98ad.png) ![](media/7f6fe2c94673dc8b6da0c22758a6bc7e.png) |
 
 Il y a deux types d’affichage (de vue) du dictionnaire :
 
@@ -1002,7 +1001,7 @@ Parfois les mots ne se trouvent pas directement dans le dictionnaire, mais ils s
 -   Cliquez sur la ligne de morphèmes du mot à analyser
 -   Cliquez sur le bouton de menu dans la ligne de morphèmes du mot à analyser et sélectionnez **Modifier des séparations de morphème…**
 -   Les Caractères de séparation sont expliquer dans le dialogue
--   Changez les morphèmes et   
+-   Changez les morphèmes et  
     cliquez **OK**.
 
 ## 
@@ -1062,9 +1061,9 @@ Dans l’affichage **Modifier le lexique**, les recherches de concordance sont a
 
 -   Cliquez sur le bouton de menu dans la ligne d'Entrée Lex.
 -   ![](media/d3dc5f92342a8246f70bf910a776bc00.png)
--   Choisissez l'entrée existante désirée   
-    **- ou -  
-    **Ajoutez un Nouveau Sens
+-   Choisissez l'entrée existante désirée  
+    \*\*- ou -  
+    \*\*Ajoutez un Nouveau Sens
 
 | ![](media/2b9fa451ca6c63a0eada198732c780c2.png) |
 |-------------------------------------------------|
@@ -1098,7 +1097,7 @@ Pour joindre deux mots dans un groupe pour une analyse simple nous employons le 
 Dans la zone des textes et de mots, l’affichage interlinéaire et l'onglet d'analyse
 
 -   Cliquez sur le premier mot de l'expression
--   Cliquez sur le bouton de « faire une locution avec la prochaine mot »   
+-   Cliquez sur le bouton de « faire une locution avec la prochaine mot »  
     ![](media/e5c52b9d3b8171b88153bf95d9654e1e.png)
 
 ## 
@@ -1184,12 +1183,12 @@ Dans la zone des textes & mots, l’affichage d'analyses de mot
 
 Vous pouvez également ajouter de nouvelles analyses dans l’affichage d'analyses de mot.
 
-| Ajouter une nouvelle Analyse Dans la zone des textes & mots, l’affichage d'analyses Naviguez pour le mot à être analysé  Dans le carreau d'analyses, cliquez sur l'utilisateur section approuvée (d'analyses)  Cliquez sur le bouton de menu d'approuvées par utilisateur (Analyses) |                                                                                                               |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Choisissez Ajouter l’analyse approuvée...                                                                                                                                                                                                                                            | Le dialogue de insérer séparations de morphème est affichage. ![](media/77ddad4509b202c684ddff4ff0928391.png) |
-| Indiquez les séparations de morphème comme approprié et cliquez sur OK                                                                                                                                                                                                               |                                                                                                               |
-| Ajoutez ou choisissez les entrées lexicologiques comme appropriées (comme dans le texte)                                                                                                                                                                                             |                                                                                                               |
-| Ajoutez une catégorie de mot et une glose de mot utilisant des champs (Catégorie, Mot)                                                                                                                                                                                               |                                                                                                               |
+| Ajouter une nouvelle Analyse Dans la zone des textes & mots, l’affichage d'analyses Naviguez pour le mot à être analysé Dans le carreau d'analyses, cliquez sur l'utilisateur section approuvée (d'analyses) Cliquez sur le bouton de menu d'approuvées par utilisateur (Analyses) |                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Choisissez Ajouter l’analyse approuvée...                                                                                                                                                                                                                                          | Le dialogue de insérer séparations de morphème est affichage. ![](media/77ddad4509b202c684ddff4ff0928391.png) |
+| Indiquez les séparations de morphème comme approprié et cliquez sur OK                                                                                                                                                                                                             |                                                                                                               |
+| Ajoutez ou choisissez les entrées lexicologiques comme appropriées (comme dans le texte)                                                                                                                                                                                           |                                                                                                               |
+| Ajoutez une catégorie de mot et une glose de mot utilisant des champs (Catégorie, Mot)                                                                                                                                                                                             |                                                                                                               |
 
 ## Attribution des analyses (46-assign anlayses)
 
@@ -1200,7 +1199,7 @@ L’affichage d'analyses de mot a un outil qui te permet d'assigner des analyses
 Dans le texte & mots zone, l’affichage d'analyses de mot
 
 -   Naviguez pour le mot à être analysé
--   Cliquez sur la commande d'analyse d'attribution (à la droite supérieure de la fenêtre)   
+-   Cliquez sur la commande d'analyse d'attribution (à la droite supérieure de la fenêtre)  
     ![](media/91793190d9648f38c60f3e6dd6cad02f.png)
 -   Le dialogue d'utilisation d'analyse est montré.
 -   ![](media/46c248948ce6e5d468528d566631c3b5.png)
@@ -1303,7 +1302,7 @@ Dans la zone de lexique, l’affichage de lexique éditent
 ## 
 
 -   Cochez la phrase désirée
--   Cliquez sur **Add** (Ajouter**)**
+-   Cliquez sur **Add** (Ajouter\*\*)\*\*
 
 ## 
 
@@ -1367,10 +1366,10 @@ L'onglet de tableau de texte te permet de faire une carte des composants de disc
 
 ### 
 
-### Titres changeants de tableau et marqueurs intégrés  (si c’est nécessaire le fait avant de commencer le tableau)
+### Titres changeants de tableau et marqueurs intégrés (si c’est nécessaire le fait avant de commencer le tableau)
 
 -   Dans le menu **Affichage**, choisissez les **listes**
--   Puis choisissez « marqueurs de tableau de texte »   
+-   Puis choisissez « marqueurs de tableau de texte »  
     (ou « Modèles pour Tableaux des Constituants d’un Texte »
 -   ![](media/6aa0b65aa0a298b0a6a0549f475a951d.png)
 
@@ -1391,8 +1390,8 @@ FLEx peut vous aider à la vérification de l’orthographe. Pour des langues de
 ### Installer le dictionnaire de contrôle de l’orthographe pour LWC
 
 -   Téléchargez le correcteur orthographique d'OpenOffice
--   Copiez le correcteur :   
-    pour XP - c:\\documents and settings\\user\\Application data\\ enchant\\myspell   
+-   Copiez le correcteur :  
+    pour XP - c:\\documents and settings\\user\\Application data\\ enchant\\myspell  
     pour Vista - C:\\Users\\\<username\>\\ AppData\\Roaming\\enchant\\myspell
 -   Puis redémarrer FLEx
 
