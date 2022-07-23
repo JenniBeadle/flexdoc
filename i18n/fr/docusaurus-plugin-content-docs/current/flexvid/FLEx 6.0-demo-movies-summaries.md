@@ -4,6 +4,8 @@ title: FLEx démo films – guide rapide
 
 :::tip Info
 This files contains summaries of all the original videos. It needs to be split up either by individual video or groups of videos. Some images that were inserted into tables did not convert to markdown. See the Word doc for those pictures.
+
+Ce fichier contient des résumés de toutes les vidéos originales. Il doit être divisé soit par vidéo individuelle, soit par groupes de vidéos. Certaines images qui ont été insérées dans des tableaux n'ont pas été converties en markdown. Voir le document Word pour ces images.
 :::
 # Introduction
 
