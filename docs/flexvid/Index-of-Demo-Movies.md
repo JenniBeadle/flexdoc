@@ -1,5 +1,6 @@
-**Index of Demo Movies**
-
+---
+title: Index of Demo Movies
+---
 The following Demo Movies are available to demonstrate many of the features of Language Explorer (FLEx).
 
 [**1 FLEx Quick Tour**](https://vimeo.com/showcase/3123523/video/111419885) (2:19)
