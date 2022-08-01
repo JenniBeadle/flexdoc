@@ -1,7 +1,10 @@
 ﻿---
-title : Cours pour apprendre le FLEx 
+title : Ressources pour apprendre le FLEx 
 sidebar_position : 1
 ---
 Ce site contient :
-- [Cours vidéo FLEx](flexvid/Introduction) basé sur les vidéos de démonstration utilisées en Afrique francophone.
+- **Résumés** des 56+ [**FLEx démo movies**](Video-summaries/00-Index-of-Demo-Movies.md)
+
+- **Formation** [Cours vidéo FLEx](Training/Introduction) basé sur les vidéos de démonstration utilisées en Afrique francophone.
+
 - Plus à suivre ...
