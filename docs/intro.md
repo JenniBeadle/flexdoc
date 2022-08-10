@@ -6,7 +6,7 @@ This site contains :
 - **Video Summaries** of  56+ 
 [**FLEx demo movies**](Video-summaries/00-Index-of-Demo-Movies.md)
 
-- **Training** [**FLEx video course**](Training/Introduction)  
+- **Training** [**FLEx video course**](Training/FLEx-video-course-2017.md)  
     based on the demo videos used in French-speaking Africa. In French, **English translation not yet finished**.
 
 - More to follow ...

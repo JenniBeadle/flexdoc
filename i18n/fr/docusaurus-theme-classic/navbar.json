@@ -1,19 +1,7 @@
 {
   "title": {
-    "message": "Formation FLEx",
+    "message": "FLEx Training",
     "description": "The title in the navbar"
-  },
-  "item.label.Tutorial": {
-    "message": "Tutoriel",
-    "description": "Navbar item with label Tutorial"
-  },
-  "item.label.Blog": {
-    "message": "Blog",
-    "description": "Navbar item with label Blog"
-  },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
   },
   "item.label.Docs": {
     "message": "Docs",

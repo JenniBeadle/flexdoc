@@ -2,7 +2,7 @@
 title: FLEx summaries - Bulk Edit
 ---
 
-Bulk edit tools allow you to make changes to numerous selected records at the same time. There are several bulk edit views. It is now possible to use the Bulk Edit Entries tool to work on entry level fields, sense level fields, Example sentences, Allomorphs and Pronunciation. There is also a bulk edit view for reversal entries, and one in the texts and words area for bulk edition wordforms. Bulk edit views provide different editing options on tabs.
+Bulk edit tools allow you to make changes to numerous selected records at the same time. There are several bulk edit views. It is now possible to use the Bulk Edit Entries tool to work on entry level fields, sense level fields, Example sentences, Allomorphs and Pronunciation. There is also a bulk edit view for reversal entries, and one in the texts and words area for bulk edition of wordforms. Bulk edit views provide different editing options on tabs.
 
 
 ### 28 Bulk Edit: List Choice  {#28}
@@ -23,6 +23,10 @@ Bulk edit tools allow you to make changes to numerous selected records at the sa
 -   Click **Preview**
 -   Review the changes
 -   Click **Apply** to make changes
+
+:::tip **Note**
+It is useful to have a preview before you make any changes. It is also a good idea to make a backup first.
+:::
 
 ### 29 Bulk Edit: Copy{#29}
 [**29 Bulk Edit: Bulk Copy**](https://vimeo.com/showcase/3123523/video/116266132) (1:02)
@@ -104,7 +108,7 @@ Prepare the TECkit or changes table, add a column (and writing system) as needed
 -   Click on the **Process** tab
 -   Select the added column as the target field
 
-*Setup the process*
+#### Setup the process
 -   Click the **Setup** button
 -   Click **Add**
 -   Type a name for the new converter
@@ -112,7 +116,7 @@ Prepare the TECkit or changes table, add a column (and writing system) as needed
 -   Then select the converter type (e.g. Unicode to and from Unicode)
 -   Click **Close**
 
-*Apply the process*
+#### Apply the process
 -   Ensure the desired source and target fields are displayed in the columns   
     (if not configure columns)
 -   Choose the **Source field**

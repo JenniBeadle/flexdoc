@@ -1,10 +1,14 @@
 {
   "version.label": {
-    "message": "BETA",
+    "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.flexvid": {
-    "message": "FLEx vidéos",
-    "description": "The label for category flexvid in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Training": {
+    "message": "Training",
+    "description": "The label for category Training in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Video-summaries": {
+    "message": "Video-summaries",
+    "description": "The label for category Video-summaries in sidebar tutorialSidebar"
   }
 }

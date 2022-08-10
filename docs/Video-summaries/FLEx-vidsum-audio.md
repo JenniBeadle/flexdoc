@@ -41,7 +41,6 @@ title: FLEx summaries - Audio writing system
 
 - Press **Shift** and click the circle.  
     *A dialog box will appear*.
-
 - Navigate to where you saved the file.
 - Click **Open**.
   *The play button appears*.

@@ -19,9 +19,33 @@
     "message": "Veuillez contacter le propriétaire du site qui vous a lié à l'URL d'origine et leur faire savoir que leur lien est cassé.",
     "description": "The 2nd paragraph of the 404 page"
   },
+  "theme.admonition.note": {
+    "message": "remarque",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "astuce",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "attention",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Revenez en haut",
+    "message": "Retour au début de la page",
     "description": "The ARIA label for the back to top button"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Fermer",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.archive.title": {
     "message": "Archive",
@@ -30,10 +54,6 @@
   "theme.blog.archive.description": {
     "message": "Archive",
     "description": "The page & hero description of the blog archive page"
-  },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Fermer",
-    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Pagination de la liste des articles du blog",
@@ -46,18 +66,6 @@
   "theme.blog.paginator.olderEntries": {
     "message": "Anciennes entrées",
     "description": "The label used to navigate to the older blog posts page (next page)"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Une minute de lecture|{readingTime} minutes de lecture",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "Plus d'informations sur {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Lire plus",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.paginator.navAriaLabel": {
     "message": "Pagination des articles du blog",
@@ -84,7 +92,7 @@
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Passez du mode sombre au mode clair (actuellement {mode})",
+    "message": "Basculer entre le mode sombre et clair (actuellement {mode})",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
@@ -118,10 +126,6 @@
   "theme.docs.paginator.next": {
     "message": "Suivant",
     "description": "The label used to navigate to the next doc"
-  },
-  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Basculer la barre latérale catégorie collapsible '{label}'",
-    "description": "The ARIA label to toggle the collapsible sidebar category"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
     "message": "Un document tagué|{count} documents tagués",
@@ -182,10 +186,6 @@
     "message": "Tags :",
     "description": "The label alongside a tag list"
   },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Sur cette page",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Navigation article de blog récent",
     "description": "The ARIA label for recent posts in the blog sidebar"
@@ -203,12 +203,32 @@
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Basculer le retour à la ligne",
+    "message": "Activer/désactiver le retour à la ligne",
     "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Plier/Déplier la catégorie '{label}' de la barre latérale",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Langues",
     "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Sur cette page",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Lire plus",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "En savoir plus sur {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Une minute de lecture|{readingTime} minutes de lecture",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
     "message": "Réduire le menu latéral",
@@ -230,48 +250,30 @@
     "message": "Déplier le menu latéral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
-  "Paratext Documentation": {
-    "message": "Documentation du FLEx"
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "Search results for \"{query}\"",
+    "description": "The search page title for non-empty query"
   },
-  "FLex Documentation": {
-    "message": "FLEx Documentation"
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Search the documentation",
+    "description": "The search page title for empty query"
   },
-  "Be part of the movement to share 200 free books for each minority language on Earth.": {
-    "message": "Participez au mouvement visant à partager 200 livres gratuits pour chaque langue minoritaire sur le Globe terrestre."
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "1 document found|{count} documents found",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
-  "FLEx Documentation": {
-    "message": "FLEx Documentation"
+  "theme.SearchPage.noResultsText": {
+    "message": "No documents were found",
+    "description": "The paragraph for empty search result"
   },
-  "Outils logiciels pour les données linguistiques et culturelles, avec prise en charge des scripts complexes.": {
-    "message": "Software tools for language and cultural data, with support for complex scripts."
+  "theme.SearchBar.noResultsText": {
+    "message": "No results"
   },
-  "FieldWorks se compose d'outils logiciels qui vous aident à gérer les données linguistiques et culturelles. FieldWorks prend en charge des tâches allant de la saisie initiale des données collectées à la préparation des données pour la publication, en passant par l'élaboration de dictionnaires, l'interlinéarisation de textes, l'analyse morphologique et d'autres publications.": {
-    "message": "FieldWorks consists of software tools that help you manage linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications."
+  "theme.SearchBar.seeAll": {
+    "message": "See all results"
   },
-  "Software tools for language and cultural data, with support for complex scripts.": {
-    "message": "Software tools for language and cultural data, with support for complex scripts."
-  },
-  "FieldWorks consists of software tools that help you manage linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.": {
-    "message": "FieldWorks consists of software tools that help you manage linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications."
-  },
-  "theme.admonition.note": {
-    "message": "remarque",
-    "description": "The default label used for the Note admonition (:::note)"
-  },
-  "theme.admonition.tip": {
-    "message": "astuce",
-    "description": "The default label used for the Tip admonition (:::tip)"
-  },
-  "theme.admonition.danger": {
-    "message": "danger",
-    "description": "The default label used for the Danger admonition (:::danger)"
-  },
-  "theme.admonition.info": {
-    "message": "info",
-    "description": "The default label used for the Info admonition (:::info)"
-  },
-  "theme.admonition.caution": {
-    "message": "attention",
-    "description": "The default label used for the Caution admonition (:::caution)"
+  "theme.SearchBar.label": {
+    "message": "Search",
+    "description": "The ARIA label and placeholder for search button"
   }
 }

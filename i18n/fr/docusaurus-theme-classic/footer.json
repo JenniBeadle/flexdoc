@@ -4,16 +4,16 @@
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Communauté",
+    "message": "Community",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "Plus",
+    "message": "More",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.Tutorial": {
-    "message": "Tutoriel",
-    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  "link.item.label.Training": {
+    "message": "Training",
+    "description": "The label of footer link with label=Training linking to /docs/intro"
   },
   "link.item.label.Stack Overflow": {
     "message": "Stack Overflow",
@@ -27,20 +27,12 @@
     "message": "Twitter",
     "description": "The label of footer link with label=Twitter linking to https://twitter.com/docusaurus"
   },
-  "link.item.label.Blog": {
-    "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to /blog"
-  },
   "link.item.label.GitHub": {
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/JenniBeadle/flexdoc"
   },
   "copyright": {
-    "message": "Copyright © 2022 SIL International  Tous droits réservés. Construit avec Docusaurus.",
+    "message": "Copyright © 2022 SIL International. All Rights Reserved. Built with Docusaurus.",
     "description": "The footer copyright"
-  },
-  "link.item.label.Training": {
-    "message": "Training",
-    "description": "The label of footer link with label=Training linking to /docs/intro"
   }
 }
