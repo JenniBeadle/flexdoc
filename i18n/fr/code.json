@@ -251,29 +251,38 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\"",
+    "message": "Résultats de la recherche pour \"{query}\"",
     "description": "The search page title for non-empty query"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation",
+    "message": "Recherche dans la documentation",
     "description": "The search page title for empty query"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "1 document found|{count} documents found",
+    "message": "1 document trouvé|{count} documents trouvés",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No documents were found",
+    "message": "Aucun document n'a été trouvé",
     "description": "The paragraph for empty search result"
   },
   "theme.SearchBar.noResultsText": {
-    "message": "No results"
+    "message": "Aucun résultat"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all results"
+    "message": "Voir tous les résultats"
   },
   "theme.SearchBar.label": {
-    "message": "Search",
+    "message": "Recherche",
     "description": "The ARIA label and placeholder for search button"
+  },
+  "FLEx Documentation": {
+    "message": "FLEx Documentation"
+  },
+  "Software tools for language and cultural data, with support for complex scripts.": {
+    "message": "Outils logiciels pour les données linguistiques et culturelles, avec prise en charge des scripts complexes."
+  },
+  "FieldWorks consists of software tools that help you manage linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.": {
+    "message": "FieldWorks se compose d'outils logiciels qui vous aident à gérer les données linguistiques et culturelles. FieldWorks prend en charge des tâches allant de la saisie initiale des données collectées à la préparation des données pour la publication, en passant par l'élaboration de dictionnaires, l'interlinéarisation de textes, l'analyse morphologique et d'autres publications."
   }
 }

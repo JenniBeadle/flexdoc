@@ -1,8 +1,8 @@
 ---
-title: FLEx résumés -  système d’écriture audio
+title: FLEx résumés -  Système d’écriture audio
 ---
 
-Ajouter un système d'écriture audio
+### Ajouter un système d'écriture audio
 -   **Format** \> **Systèmes d’écriture**
 -   Dans la section "Systèmes d’écriture vernaculaire" cliquez sur **Ajouter**
 -   Sélectionnez **Système d’écriture de** *la langue* dans laquelle vous travaillez actuellement,
