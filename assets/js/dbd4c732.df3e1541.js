@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflexdoc=self.webpackChunkflexdoc||[]).push([[3827],{2977:e=>{e.exports=JSON.parse('{"permalink":"/flexdoc/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
