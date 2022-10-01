@@ -1,14 +1,14 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Suivant",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Training": {
-    "message": "Training",
+    "message": "Formation",
     "description": "The label for category Training in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Video-summaries": {
-    "message": "Video-summaries",
+    "message": "Résumés des vidéos",
     "description": "The label for category Video-summaries in sidebar tutorialSidebar"
   }
 }

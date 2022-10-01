@@ -1,8 +1,8 @@
 {
-  "label": "FLEx training courses",
+  "label": "Cours de formation FLEx",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Here are the various categories of videos."
+    "description": "Voici les différentes catégories de vidéos."
   }
 }

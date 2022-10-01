@@ -39,14 +39,6 @@
     "message": "attention",
     "description": "The default label used for the Caution admonition (:::caution)"
   },
-  "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Retour au début de la page",
-    "description": "The ARIA label for the back to top button"
-  },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Fermer",
-    "description": "The ARIA label for close button of announcement bar"
-  },
   "theme.blog.archive.title": {
     "message": "Archive",
     "description": "The page & hero title of the blog archive page"
@@ -54,6 +46,10 @@
   "theme.blog.archive.description": {
     "message": "Archive",
     "description": "The page & hero description of the blog archive page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Retour au début de la page",
+    "description": "The ARIA label for the back to top button"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Pagination de la liste des articles du blog",
@@ -186,6 +182,10 @@
     "message": "Tags :",
     "description": "The label alongside a tag list"
   },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Fermer",
+    "description": "The ARIA label for close button of announcement bar"
+  },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Navigation article de blog récent",
     "description": "The ARIA label for recent posts in the blog sidebar"
@@ -210,10 +210,6 @@
     "message": "Plier/Déplier la catégorie '{label}' de la barre latérale",
     "description": "The ARIA label to toggle the collapsible sidebar category"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Langues",
-    "description": "The label for the mobile language switcher dropdown"
-  },
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "Sur cette page",
     "description": "The label used by the button on the collapsible TOC component"
@@ -225,6 +221,10 @@
   "theme.blog.post.readMoreLabel": {
     "message": "En savoir plus sur {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Langues",
+    "description": "The label for the mobile language switcher dropdown"
   },
   "theme.blog.post.readingTime.plurals": {
     "message": "Une minute de lecture|{readingTime} minutes de lecture",
@@ -251,11 +251,11 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Résultats de la recherche pour \"{query}\"",
+    "message": "Search results for \"{query}\"",
     "description": "The search page title for non-empty query"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Recherche dans la documentation",
+    "message": "Rechercher dans la documentation",
     "description": "The search page title for empty query"
   },
   "theme.SearchPage.documentsFound.plurals": {
@@ -263,11 +263,11 @@
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "Aucun document n'a été trouvé",
+    "message": "No documents were found",
     "description": "The paragraph for empty search result"
   },
   "theme.SearchBar.noResultsText": {
-    "message": "Aucun résultat"
+    "message": "Aucun résultat trouvé"
   },
   "theme.SearchBar.seeAll": {
     "message": "Voir tous les résultats"
@@ -276,13 +276,8 @@
     "message": "Recherche",
     "description": "The ARIA label and placeholder for search button"
   },
-  "FLEx Documentation": {
-    "message": "FLEx Documentation"
-  },
-  "Software tools for language and cultural data, with support for complex scripts.": {
-    "message": "Outils logiciels pour les données linguistiques et culturelles, avec prise en charge des scripts complexes."
-  },
-  "FieldWorks consists of software tools that help you manage linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.": {
-    "message": "FieldWorks se compose d'outils logiciels qui vous aident à gérer les données linguistiques et culturelles. FieldWorks prend en charge des tâches allant de la saisie initiale des données collectées à la préparation des données pour la publication, en passant par l'élaboration de dictionnaires, l'interlinéarisation de textes, l'analyse morphologique et d'autres publications."
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
   }
 }

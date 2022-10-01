@@ -7,12 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FLEx Documentation',
-  tagline: "Software tools for language and cultural data, with support for complex scripts.",
-  url: 'https://JenniBeadle.github.io/',
+  tagline: 'Tools for ...',
+  url: 'https://JenniBeadle.github.io',
   baseUrl: '/flexdoc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  trailingSlash: false,
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
@@ -34,61 +33,57 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/JenniBeadle/flexdoc/',
+            'https://github.com/JenniBeadle/flexdoc/tree/main',
         },
-        //blog: {
-          //showReadingTime: true,
-          //// Please change this to your repo.
-          //// Remove this to remove the "edit this page" links.
-          //editUrl:
-            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //},
-        theme: {
+        blog: false,
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+    theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
   ],
   themes: [
-    [    '@easyops-cn/docusaurus-search-local',
-        {
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
-         hashed: true,
-         language: ["en", "fr"],
-         indexBlog: false,
-         indexPages: false,
-         docsRouteBasePath: "/",
-       },
-      ]
+        hashed: true,
+        language: ["en", "fr"],
+        indexBlog: false,
+        indexPages: false,
+        docsRouteBasePath: "/",
+      },
+    ],
   ],
-  
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'FLEx Training',
+        title: 'FLEx documentation',
         logo: {
-          alt: 'FLExLogo',
-          src: 'img/FLEx.png',
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Docs',
+          href: 'https://github.com/JenniBeadle/flexdoc',
+            label: 'GitHub',
+            position: 'right',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
-          //{
-          //  href: 'https://github.com/JenniBeadle/flexdoc/',
-          //  label: 'GitHub',
-          //  position: 'right',
-          //},
           {
             type: "localeDropdown",
             position: 'right',
@@ -96,53 +91,14 @@ const config = {
           {
             type: "docsVersionDropdown",
             position: 'right',
-          }, 
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Training',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              //{
-                //label: 'Blog',
-                //to: '/blog',
-              //},
-              {
-                label: 'GitHub',
-                href: 'https://github.com/JenniBeadle/flexdoc',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SIL International. All Rights Reserved. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

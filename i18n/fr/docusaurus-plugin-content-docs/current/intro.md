@@ -1,6 +1,7 @@
 ﻿---
 title: Ressources pour apprendre FLEx
 sidebar_position : 1
+slug: /
 ---
 Ce site contient :
 - **Résumés vidéos** de 56+... 
