@@ -1,8 +1,8 @@
-﻿---
+---
 title: FLEx résumés – Introduction
 ---
 
-### 1 Visite rapide de FLEx (2:19)  
+## 1 Visite rapide de FLEx (2:19)  
 [**1 FLEx Quick Tour**](https://vimeo.com/showcase/3123523/video/111419885) (2:19)
 
 Les outils dans l'explorateur de langue sont organisés en des **zones**. Dans chaque zone il y a un certain nombre d'outils ou d’affichages. Cette liste change selon la zone où vous êtes actuellement.
@@ -15,7 +15,7 @@ Les outils dans l'explorateur de langue sont organisés en des **zones**. Dans c
 | **Listes** | gère les différentes listes utilisées pour classer et catégoriser les éléments | Ajouter/Modifier des éléments dans les listes |
 
 
-### 2 Parcourir et éditer des volets
+## 2 Parcourir et éditer des volets
 [**2 FLEx Pane Layout**](https://vimeo.com/showcase/3123523/video/111419886) (0:52)
 
 
@@ -24,7 +24,7 @@ De nombreuses vues contiennent à la fois des volets de navigation et de modific
 L'un ou l'autre volet peut être **minimisé** (en faisant glisser le séparateur) et facilement **rétabli** par la suite (en cliquant sur la barre grise).
 
 
-### 3 Personnalisation du volets de parcourir
+## 3 Personnalisation du volets de parcourir
 [**3 FLEx Configure Columns** ](https://vimeo.com/showcase/3123523/video/111419888)(1:25)
 
 *Dans la zone de « Lexique », Affichage « Éditer lexique »*
@@ -46,10 +46,10 @@ L'un ou l'autre volet peut être **minimisé** (en faisant glisser le séparateu
 -   Ajoutez ou enlevez les colonnes selon les besoins
 -   Réorganisez les colonnes à l'aide des boutons fléchés
 -   Choisissez les systèmes d'écriture selon les besoins.
--   Cliquez sur **OK**.
-![](media/33137ad40839e6ebb09988b151a27c08.png)
+-   Cliquez sur **OK**.  
+    ![](media/33137ad40839e6ebb09988b151a27c08.png)
 
-### 4 Filtrage (Filtering)
+## 4 Filtrage (Filtering)
 [**4 FLEx Filtering** ](https://vimeo.com/showcase/3123523/video/111419890)(1:32)
 
 Les vues de parcourir ont des options de filtre fournies dans le menu déroulant sous les en-têtes de colonne.
@@ -60,6 +60,8 @@ Les vues de parcourir ont des options de filtre fournies dans le menu déroulant
 
 -   Utilisez les menus déroulants au-dessous des en-têtes de colonne
 
+|  |  |
+|--|--|
 | Afficher tout | Désactiver le filtre | 
 | Vides | entrées manquant de données |
 | Non-vides | entrées contiennent des données.
@@ -76,7 +78,7 @@ Les vues de parcourir ont des options de filtre fournies dans le menu déroulant
 
 Le filtre est-il actif ?    Le sélecteur est jaune et la barre d'état est également jaune pour indiquer les résultats du filtre.  
 
-### 5 Filtres spéciaux
+## 5 Filtres spéciaux
 [**5 FLEx Special filters** ](https://vimeo.com/showcase/3123523/video/111419891)(1:55)
 
 | **Pour…**                                       | **Choisissez… de la liste déroulant du filtre puis…**                                                                                                                                                                  |
@@ -89,7 +91,7 @@ Le filtre est-il actif ?    Le sélecteur est jaune et la barre d'état est éga
 | Champs de date                                  | Choisissez le filtre de **Limiter** et utiliser le calendrier pour choisir la date                         |
 | Filtres préconfigurés                           | quelques champs ont préconfiguré des filtres, par exemple : oui/non, ou le nombre de champs plus grand \> 0…                                                                                                           |
 
-### 6 Filtrage avec des expressions régulières
+## 6 Filtrage avec des expressions régulières
 [**6 FLEx Filtering with Regular Expressions** ](https://vimeo.com/showcase/3123523/video/111421267)(2:09)
 
 Pour plus de flexibilité dans le filtrage vous pouvez utiliser ce qui est appelé une expression régulière. Par exemple, trouver tous les lexèmes commençant (**\b**) avec mb- ou (**|**) mp ou mu. 
@@ -123,7 +125,7 @@ Quelques expressions régulières utiles :
 |                           |                                                           |
 |                           |                                                           |
 
-### 7 Mettre dans l’ordre
+## 7 Mettre dans l’ordre
 [**7 FLEx Sorting**](https://vimeo.com/showcase/3123523/video/111421269) (1:05)
 
 |   |   |

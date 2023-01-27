@@ -10,5 +10,13 @@
   "sidebar.tutorialSidebar.category.Video-summaries": {
     "message": "Résumés des vidéos",
     "description": "The label for category Video-summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.FLEx Video Summaries": {
+    "message": "FLEx Résumés des vidéos",
+    "description": "The label for category FLEx Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.FLEx Video Summaries.link.generated-index.description": {
+    "message": "Voici les différentes catégories de vidéos.",
+    "description": "The generated-index page description for category FLEx Video Summaries in sidebar tutorialSidebar"
   }
 }

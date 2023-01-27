@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FLEx Documentation',
-  tagline: 'Tools for ...',
+  tagline: 'Software tools for language and cultural data, with support for complex scripts.',
   url: 'https://JenniBeadle.github.io',
   baseUrl: '/flexdoc/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/FW-cube-80x80.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -41,6 +41,8 @@ const config = {
             'https://github.com/JenniBeadle/flexdoc/tree/main',
         },
         blog: false,
+        theme: {customCss: [require.resolve('./src/css/custom.css')],},
+        // Docs: https://docusaurus.io/docs/styling-layout
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
@@ -73,10 +75,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'FLEx documentation',
+        title: 'FLEx training',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'FLEx Logo',
+          src: 'img/FW-cube-80x80.png',
         },
         items: [
           {
@@ -98,7 +100,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SIL International. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

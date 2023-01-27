@@ -188,5 +188,3 @@ Obtenir un projet d'un collègue (Envoyer/Recevoir 4) (1:30)
 ## Audio
 Ajout et utilisation d'un système d'écriture audio (3:28)  
 [**Adding and Using an Audio Writing System**](https://vimeo.com/showcase/3123523/video/126138701) (3:28)
-
-\*\*\* Traduit avec www.DeepL.com/Translator (version gratuite) \*\*\*
