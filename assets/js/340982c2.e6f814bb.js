@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkflexdoc=self.webpackChunkflexdoc||[]).push([[190],{494:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/flexdoc/blog/tags/docusaurus","allTagsPath":"/flexdoc/blog/tags","count":4}')}}]);
