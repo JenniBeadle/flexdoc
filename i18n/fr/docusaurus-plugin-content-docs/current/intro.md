@@ -6,7 +6,7 @@ slug: /
 Ce site contient :
 - **Résumés vidéos** de 56+... 
 [**FLEx vidéos de démonstration**](Video-summaries/00-Index-of-Demo-Movies.md)
-   - :book: [Télécharger les résumés  PDF ici](pathname:///img/FLEx-vidsum-a5-fr.pdf)  
+   - :book: [Télécharger les résumés  PDF ici](assets/FLEx-vidsum-a5-fr.pdf)  
    - Il a 79+ pages A5 pour imprimer en format A5 livret.
 
 - **Formation** [**Cours vidéo FLEx**](Training/FLEx-video-course-2017.md)  

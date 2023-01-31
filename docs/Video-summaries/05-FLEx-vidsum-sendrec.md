@@ -1,10 +1,10 @@
-﻿---
+---
 title: FLEx summaries - Send/receive
 ---
 
 
 
-### Introduction to Send/Receive (Send/Receive 1) (1:12){#sr1}  
+### Introduction to Send/Receive (Send/Receive 1) (1:12)  
 [**Introduction to Send/Receive (Send/Receive 1)**](https://vimeo.com/showcase/3123523/video/111737713) (1:12)
 
 The send/receive feature of FLEx allows different people working on different computers to all make edits to the same FLEx database. It can be done via the Internet, USB key, ChorusHub. Even if you are the only user it can be useful to help you easily work on more than one computer e.g. a desktop at work and a laptop at home. 

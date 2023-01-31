@@ -1,6 +1,5 @@
 ---
 title: Index of Demo Movies
-sidebar position: 1
 ---
 The following Demo Movies are available to demonstrate many of the features of Language Explorer (FLEx).
 

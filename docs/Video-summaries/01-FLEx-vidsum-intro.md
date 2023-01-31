@@ -62,6 +62,7 @@ Browse views have filter options provided in the chooser menu below the column h
 -   Use the drop-down menus below the column headings
 
 |   |   |
+|---|---|
 | Show all | turns off filter | 
 | Blanks | entries missing data |
 | Non-Blanks | entries which contain data |
