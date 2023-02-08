@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.FLEx Video Summaries": {
+    "message": "FLEx Video Summaries",
+    "description": "The label for category FLEx Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.FLEx Video Summaries.link.generated-index.description": {
+    "message": "Here are the various categories of videos.",
+    "description": "The generated-index page description for category FLEx Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Training": {
+    "message": "Training",
+    "description": "The label for category Training in sidebar tutorialSidebar"
+  }
+}

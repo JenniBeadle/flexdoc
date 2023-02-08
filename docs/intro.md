@@ -10,5 +10,5 @@ This site contains :
 - **Training** 
   - [**FLEx video course**](Training/FLEx-video-course-2017.md)  
     based on the demo videos used in French-speaking Africa. In French, **English translation not yet finished**.
-  - [**FLEx 8**](Training/FLEx_8) trainig course
+  - [**FLEx 8**](Training/FLEx_8) training course
   - More to follow ...

@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'fr'],
+    locales: ['en', 'fr', 'es'],
   },
 
   presets: [
@@ -63,7 +63,7 @@ const config = {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        language: ["en", "fr"],
+        language: ["en", "fr", "es"],
         indexBlog: false,
         indexPages: false,
         docsRouteBasePath: "/",
