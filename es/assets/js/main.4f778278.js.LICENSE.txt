@@ -16,6 +16,14 @@ object-assign
  */
 
 /*!
+ * Lunr languages, `Spanish` language
+ * https://github.com/MihaiValentin/lunr-languages
+ *
+ * Copyright 2014, Mihai Valentin
+ * http://www.mozilla.org/MPL/
+ */
+
+/*!
  * Snowball JavaScript Library v0.3
  * http://code.google.com/p/urim/
  * http://snowball.tartarus.org/
